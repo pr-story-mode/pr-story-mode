@@ -1,0 +1,10 @@
+node_modules/
+stories/
+# Benchmark runs write here; only the recorded results are kept.
+bench/*
+!bench/results/
+.DS_Store
+*.log
+packages/extension/dist/
+packages/cli/dist/
+packages/extension/release/
